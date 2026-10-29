@@ -98,7 +98,7 @@ Have a question or suggestion? Open an issue in this repository.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU Public 3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
