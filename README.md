@@ -1,7 +1,9 @@
-# MySleepExpressive
-
 <div align="center">
+  <img src="logo%20512x512.png" alt="MySleepExpressive Logo" width="160" height="160">
 
+  <h1>MySleepExpressive</h1>
+  <p>A sleep tracker for Android, built with Material 3 Expressive.</p>
+</div>
 ### A sleep tracker for Android, built with Material 3 Expressive.
 
 Track your sleep, discover your patterns, and build better sleeping habits with a modern, expressive Android experience.
