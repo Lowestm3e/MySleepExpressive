@@ -86,6 +86,10 @@ Contributions, suggestions, and bug reports are welcome.
 
 If you have an idea for improving SleepMaster, feel free to open an issue or submit a pull request.
 
+> [!NOTE]
+> **Development Disclaimer:** SleepMaster was developed with assistance from Claude AI by Anthropic. All project design choices, implementation, and modifications should be credited appropriately to their respective contributors.
+
+
 ## Contact
 
 Have a question or suggestion? Open an issue in this repository.
