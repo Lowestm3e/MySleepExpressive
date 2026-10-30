@@ -90,7 +90,7 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 ## Quick Devlog
 
 Currently the app is in Figma Design state, and only then we can start to create the app
----
+
 <div align="center">
 
 **MySleepExpressive**
